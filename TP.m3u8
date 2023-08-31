@@ -2037,8 +2037,8 @@ http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/36941.m3u8
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/30379.m3u8
 #EXTINF:-1 group-title="CANALES VARIADOS (intermitencia)",TELEHIT PLUS HD
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/30380.m3u8
-#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia)",Telemundo Inter | TE
-http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/3115.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitencia)",Telemundo Los Angeles | CA
+https://nbculocallive.akamaized.net/hls/live/2037084/losangeles/stream6/master.m3u8
 #EXTINF:-1 group-title="CANALES VARIADOS (intermitencia)",Teleritmo SD
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/3328.m3u8
 #EXTINF:-1 group-title="CANALES VARIADOS (intermitencia)",TELEVISA 4 GUADALAJARA
